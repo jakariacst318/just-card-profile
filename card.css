@@ -1,0 +1,34 @@
+h2{
+    background: linear-gradient(90deg,#269ef1,#7036be);
+    color: #fff;
+    font-size: 45px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.card-body img{
+    width: 130px;
+    height: 130px;
+    position: absolute;
+}
+.profile{
+    margin-top: -15px;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 100px;
+
+}
+.card-body h5{
+    text-align: center;
+}
+.card-body p{
+    text-align: center;
+}
+.kard-icon{
+    text-align: center;
+    color: #269ef1;
+    font-size: 20px;
+}
+.kard-icon i{
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
